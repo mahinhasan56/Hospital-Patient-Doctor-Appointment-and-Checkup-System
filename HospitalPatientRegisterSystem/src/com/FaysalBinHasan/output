@@ -1,0 +1,114 @@
+choose 1 for Linear Queue ,2 for Circular Array Queue ,3 for ListQueue
+1
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+1
+Enter A Number
+101
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+1
+Enter A Number
+102
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+1
+Enter A Number
+103
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+1
+Enter A Number
+104
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+5
+[ 101 102 103 104  ]
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+2
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+2
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+5
+[ 103 104  ]
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+4
+false
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+5
+[ 103 104  ]
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+3
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+5
+[  ]
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+4
+true
+press 1 for register patient
+ 2 for serve patient 
+ 3 for cancell all
+ 4 for can doctor go home
+ 5 for show all
+ 6 for exit
+6
